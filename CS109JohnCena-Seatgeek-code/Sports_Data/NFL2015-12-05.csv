@@ -1,0 +1,33 @@
+,Teams,W,L,T,PCT,HOME,ROAD,DIV,CONF,PF,PA,DIFF,STRK
+0,z -Carolina PanthersCAR,11,0,0,1.0,6-0,5-0,2-0,7-0,332,205,127,W11
+1,New England PatriotsNE,10,1,0,0.909,6-0,4-1,4-0,7-1,347,212,135,L1
+2,Cincinnati BengalsCIN,10,2,0,0.833,5-1,5-1,4-0,8-1,334,196,138,W2
+3,Arizona CardinalsARI,10,2,0,0.833,4-1,6-1,4-1,7-1,382,232,150,W6
+4,Denver BroncosDEN,9,2,0,0.818,4-1,5-1,2-1,5-2,252,207,45,W2
+5,Green Bay PackersGB,8,4,0,0.667,4-2,4-2,3-2,6-3,289,238,51,W1
+6,Minnesota VikingsMIN,8,4,0,0.667,4-2,4-2,3-1,5-3,238,232,6,L1
+7,New York JetsNYJ,7,5,0,0.583,4-2,3-3,2-2,5-4,295,248,47,W2
+8,Seattle SeahawksSEA,7,5,0,0.583,4-2,3-3,2-2,6-4,305,229,76,W3
+9,Kansas City ChiefsKC,6,5,0,0.545,3-2,3-3,2-1,5-2,287,220,67,W5
+10,Indianapolis ColtsIND,6,5,0,0.545,3-3,3-2,3-0,4-3,249,260,-11,W3
+11,Pittsburgh SteelersPIT,6,5,0,0.545,4-2,2-3,1-2,3-4,266,230,36,L1
+12,Tampa Bay BuccaneersTB,6,6,0,0.5,3-3,3-3,3-1,5-3,271,298,-27,W1
+13,Atlanta FalconsATL,6,6,0,0.5,3-3,3-3,0-3,4-5,279,257,22,L5
+14,Buffalo BillsBUF,6,6,0,0.5,3-3,3-3,3-2,6-5,296,278,18,W1
+15,Houston TexansHOU,6,6,0,0.5,4-2,2-4,2-1,4-4,253,264,-11,L1
+16,Washington RedskinsWSH,5,6,0,0.455,5-1,0-5,2-1,5-3,241,267,-26,W1
+17,Oakland RaidersOAK,5,6,0,0.455,2-3,3-3,1-1,5-3,264,280,-16,W1
+18,New York GiantsNYG,5,7,0,0.417,3-3,2-4,2-3,4-5,307,296,11,L3
+19,Chicago BearsCHI,5,7,0,0.417,1-5,4-2,1-3,2-6,251,290,-39,L1
+20,Miami DolphinsMIA,5,7,0,0.417,2-3,3-4,0-5,3-6,240,300,-60,W1
+21,Philadelphia EaglesPHI,4,7,0,0.364,2-3,2-4,2-2,3-6,243,274,-31,L3
+22,New Orleans SaintsNO,4,7,0,0.364,3-2,1-5,1-2,3-5,261,339,-78,L3
+23,Jacksonville JaguarsJAX,4,8,0,0.333,3-3,1-5,1-3,4-6,275,341,-66,L2
+24,Baltimore RavensBAL,4,8,0,0.333,2-3,2-5,2-2,3-6,272,291,-19,L1
+25,St. Louis RamsSTL,4,8,0,0.333,3-3,1-5,3-1,3-5,189,257,-68,L5
+26,Detroit LionsDET,4,8,0,0.333,3-4,1-4,2-3,3-5,253,315,-62,L1
+27,San Francisco 49ersSF,4,8,0,0.333,3-3,1-5,0-5,3-7,178,291,-113,W1
+28,San Diego ChargersSD,3,8,0,0.273,2-4,1-4,0-2,2-5,244,307,-63,W1
+29,Dallas CowboysDAL,3,8,0,0.273,1-5,2-3,2-2,2-7,204,261,-57,L1
+30,Tennessee TitansTEN,3,9,0,0.25,1-6,2-3,1-3,1-7,245,296,-51,W1
+31,Cleveland BrownsCLE,2,10,0,0.167,1-5,1-5,1-4,2-8,216,347,-131,L7
